@@ -19,7 +19,7 @@ A console-based chatbot that educates users about cybersecurity best practices.
 git clone https://github.com/YOUR-USERNAME/CybersecurityChatbot.git
 cd CybersecurityChatbot
 
-2. Build and run 
+2. Clone the repository:
 dotnet build
 dotnet run
 
